@@ -13,4 +13,4 @@ guide email ----------> john@snow.com ----> pas: 123456
 ==> (Become a Gidee) fill korle admin er (Manage Condidate) page a accept korle   ( role : Guide ) hobe.
 ==> ( Guide ar Admin ) kono pakage book korte parbe na (User ar tourist) parbe.
     
-___________________________ 0 _____________________________
+___________________________ 0 ____________________________
