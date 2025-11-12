@@ -1,6 +1,6 @@
 --------------------------------------
 admin email ----------> admin@gmail.com ----> pas: 123456
-user email ----------> beckham@gmail.com@ ----> pas: 123456
+user email ----------> beckham@gmail.com ----> pas: 123456
 tourist email ----------> borshon@gmai.com ----> pas: 123456
 guide email ----------> john@snow.com ----> pas: 123456
 --------------------------------------
